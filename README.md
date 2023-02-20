@@ -1,4 +1,4 @@
-# Project 2: Shiny App Development
+# Project : Shiny App Development
 
 
 ![screenshot](doc/figs/readme_cover.png)
